@@ -1,0 +1,344 @@
+Course Title: LEARN SCRATCH PROGRAMING
+Description: Scratch Course is the foundation of coding and is a building block of a coding journey. If you want
+Lessons: 16Lessons
+Price per session: $20
+========================================
+Course Title: LEARN CLOUD COMPUTING BASICS-AWS
+Description: In this course we are going to cover the basics and the most important services on AWS,
+At the end
+Lessons: 20Lessons
+Price per session: $30
+========================================
+Course Title: LEARN MOBILE DEVELOPMENT
+Description: Mobile application development is the process of creating software applications that run on a mobil
+Lessons: 24Lessons
+Price per session: $20
+========================================
+Course Title: LEARN CORE JAVA PROGRAMMING ONLINE
+Description: Java is a very popular high-level, class-based, object-oriented programming language that is design
+Lessons: 41Lessons
+Price per session: $20
+========================================
+Course Title: LEARN ROBOTICS
+Description: You can open all kinds of doors for advancement in so many careers with a basic understanding of el
+Lessons: 25Lessons
+Price per session: $20
+========================================
+Course Title: LEARN JAVASCRIPT
+Description: JavaScript is the most popular programming language in the world. It powers the entire modern web.
+Lessons: 18Lessons
+Price per session: $20
+========================================
+Course Title: LEARN NODE JS
+Description: Node.js developers are in high demand and the language is used for everything from traditional web
+Lessons: 18Lessons
+Price per session: $20
+========================================
+Course Title: LEARN CLOUD COMPUTING ADVANCE-AWS
+Description: DESCRIPTIONThis introduction to cloud computing on Amazon AWS course takes you from the AWS Ad
+Lessons: 18Lessons
+Price per session: $35
+========================================
+Course Title: PYTHON PROGRAMMING-BEGINNER
+Description: Python is a language with simple syntax, and a powerful set of libraries. It has a rich programming
+Lessons: 16Lessons
+Price per session: $20
+========================================
+Course Title: Roblox Programming For Beginners
+Description: Explore the dynamic universe of game development with our "Roblox Game Development Fundamentals" cou
+Lessons: 15Lessons
+Price per session: $30
+========================================
+Course Title: PYTHON PROGRAMMING-INTERMEDIATE
+Description: Take your python skills to the next level and start building real applications.Python is a pro
+Lessons: 16Lessons
+Price per session: $20
+========================================
+Course Title: PYTHON PROGRAMMING-ADVANCE
+Description: If you already know Python basics, then this training is the next step in your Python learning path
+Lessons: 30Lessons
+Price per session: $25
+========================================
+Course Title: PYTHON PROGRAMMING GROUP CLASSES - BEGINNER
+Description: Python is a language with simple syntax, and a powerful set of libraries. It has a rich programming
+Lessons: 16Lessons
+Price per session: $20
+========================================
+Course Title: Advanced Roblox Scripting Workshop
+Description: "Are you ready to unlock the full potential of your Roblox game development skills? Join our Interme
+Lessons: 14Lessons
+Price per session: $30
+========================================
+Course Title: Robotics Adventure Awaits:Join Our Summer Camp for Young Tech Wizards!
+Description: This course is designed to introduce beginners to the world of robotics. Learners will be taught the
+Lessons: 16Lessons
+Price per session: $20
+========================================
+Course Title: Java Project-Based Course
+Description: Java Project-Based Course for Intermediate Level Students ;Overview: This course is designed for int
+Lessons: 7Lessons
+Price per session: $20
+========================================
+Course Title: Artificial Intelligence Adventures: Building AI Chatbot Like Chatgpt (For Kids)
+Description: Unlock the power of AI chatbots in our 10-day course! Gain comprehensive knowledge of chatbot develo
+Lessons: 10Lessons
+Price per session: $22
+========================================
+Course Title: Python Playground: Create a Hangman Game
+Description: Python Playground : Create a Hangman Game is an exciting and engaging course designed specifically f
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Scratch Playground: Create a Maze Game!
+Description: Scratch Playground : Create a Maze Game! is a beginner-level course designed to introduce kids to th
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Artificial Intelligence Essentials: Summer Bootcamp
+Description: Join us for this engaging 5-day summer bootcamp where we will explore the fascinating world of Artif
+Lessons: 5Lessons
+Price per session: $13
+========================================
+Course Title: Time Mastery Camp: AI for Jobs, Business, Careers
+Description: The "AI for Productivity and Time Management" course: 🚀💡
+Day 1: Introduction to AI and its Applica
+Lessons: 11Lessons
+Price per session: $25
+========================================
+Course Title: Build Your Own Theme Park in Roblox
+Description: Roblox Studio fundamentals are taught through fun and interactive projects. Lectures, projects, hand
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Java Coding Summer Camp for Young Minds
+Description: Java Journey: Coding Camp for Curious Minds" is a fun-filled, 5-day adventure into the world of prog
+Lessons: 5Lessons
+Price per session: $12
+========================================
+Course Title: AI Camp for Entrepreneurs: Build Business Success
+Description: Welcome to the world of AI in entrepreneurship!  In this course, we will embark on a thrilling journ
+Lessons: 7Lessons
+Price per session: $25
+========================================
+Course Title: ChatGPT Boot Camp: Basics & Best Uses
+Description: Join us for an exciting journey into the world of AI chatbots with this 5-day bootcamp. You'll learn
+Lessons: 5Lessons
+Price per session: $12
+========================================
+Course Title: Create-A-Bot: A Project-Based Robotics Exploration
+Description: Ignite your child's tech curiosity with our "RoboRacers" camp! Over five days, campers will delve in
+Lessons: 5Lessons
+Price per session: $13
+========================================
+Course Title: Java & Proramming
+Description: " Project outline for JAVA PROJECT BASED BOOTCAMP
+1: Introduction to Java and Programming Basics.
+2.
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Chatbot Creators: Design a ChatGPT-like AI
+Description: Join us on a 7-day bootcamp to step into the world of AI and create your own chatbot like ChatGPT. Y
+Lessons: 7Lessons
+Price per session: $13
+========================================
+Course Title: Web Development from scratch
+Description: Unlock the boundless potential of web development with our "Web Development Essentials" course. Whet
+Lessons: 6Lessons
+Price per session: $30
+========================================
+Course Title: Summer Camp: Introduction to Python
+Description: Step into our 7-day "Python Project Playground" camp where coding meets creativity! Kids will explor
+Lessons: 7Lessons
+Price per session: $11
+========================================
+Course Title: AI Secrets Revealed: Master Productivity Hacks That Will Blow Your Mind! (For Kids)
+Description: Boost your productivity with AI! 
+
+Join our "AI for Productivity and Time Management" course and lea
+Lessons: 11Lessons
+Price per session: $22
+========================================
+Course Title: Summer Bootcamp with JavaScript: Real Projects, Real Results
+Description: In this 5-day camp, you'll dive headfirst into JavaScript, one of the world's most popular programmi
+Lessons: 5Lessons
+Price per session: $12
+========================================
+Course Title: AI Disruption: Top Entrepreneurs Harnessing AI for Unprecedented Success! (For Kids)
+Description: Understand the role and potential of AI in entrepreneurship, learn the fundamentals, explore data ac
+Lessons: 7Lessons
+Price per session: $22
+========================================
+Course Title: The AI Writer's Masterclass: Innovation and Inspiration in Creative Writing! (For Kids)
+Description: Enhance your creative writing skills with AI! Join our 10-day course and explore AI's role in writin
+Lessons: 10Lessons
+Price per session: $22
+========================================
+Course Title: Web Development Pro: Intermediate Level
+Description: Ready to unlock the full potential of web development? Join our "Intermediate Web Development Master
+Lessons: 8Lessons
+Price per session: $30
+========================================
+Course Title: Scratch Playground: Create a Scroller Game!
+Description: Scratch Playground : Create a Scroller Game is an intermediate level course designed to teach kids t
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: AI Pro: Creative Writing Camp for Adults
+Description: 🚀 Welcome to Creative Writing with AI for ADULTS! 
+Unleash your creativity with cutting-edge AI tec
+Lessons: 10Lessons
+Price per session: $25
+========================================
+Course Title: Python Playground: Create Your Own Snake Game
+Description: Through this course, participants will learn the fundamentals of Python programming language, as wel
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Build your own Calculator using Python Bootcamp for kids
+Description: This bootcamp is a fun and engaging program designed to introduce children to the basics of programm
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Python Playground: Create a Tic Tac Toe Game
+Description: An interactive and hands-on tutorial designed to help learners build their programming skills while
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Scratch Playground: Create a Flappy Bird Game!
+Description: Scratch Playground 103: Create a Flappy Bird is a beginner to intermediate level course designed to
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: HTML, CSS, JavaScript: 7-Day Summer Bootcamp
+Description: Jump into the vibrant world of coding with our engaging 7-day summer camp! Starting from scratch, yo
+Lessons: 7Lessons
+Price per session: $12
+========================================
+Course Title: Hands-on Java: Project-based Learning for Coding Novices
+Description: Embark on a coding adventure with our "Code, Create, Conquer" Java camp! In just 7 days, kids will l
+Lessons: 7Lessons
+Price per session: $11
+========================================
+Course Title: Python Playground: Create a Memory Game
+Description: Python Playground: Create a Memory Game is a beginner-level course designed for kids who are interes
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Summer Bootcamp: 5-Day Scratch Programming for Beginners
+Description: Embark on an exciting coding adventure with our 5-day Scratch Programming camp! Designed for beginne
+Lessons: 5Lessons
+Price per session: $12
+========================================
+Course Title: 5-Day Summer Camp: Python for Beginners
+Description: Dive into coding with our 5-day "Python Playground" camp! Kids will explore Python, a popular langua
+Lessons: 5Lessons
+Price per session: $12
+========================================
+Course Title: Build a Text analyzer using Python Bootcamp for kids
+Description: The Build a Text Analyzer using Python Bootcamp for Kids is an educational program designed to intro
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Scratch Playground : Create a Platformer Game!
+Description: Scratch Playground : Create a Platformer Game is an intermediate level course designed to teach kids
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Introduction to Artificial Intelligence!
+Description: Welcome to the "Introduction to Artificial Intelligence and Python" course! This course is designed
+Lessons: 5Lessons
+Price per session: $30
+========================================
+Course Title: Python Playground: Create a Rock, Paper, Scissors Game
+Description: This is an engaging course designed for kids who are interested in learning programming with Python.
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: AI in Stock Market Success: Career Growth Camp !!
+Description: Are you ready to unlock the secrets of predicting stock prices using AI? 📈🤖 Join our immersive cou
+Lessons: 10Lessons
+Price per session: $25
+========================================
+Course Title: From Beginner to AI Pro: Kickstart Your Journey With Artificial Intelligence! (For Kids)
+Description: Dive into the world of AI! 🤖 Join our "Introduction to Artificial Intelligence" course and unlock t
+Lessons: 20Lessons
+Price per session: $22
+========================================
+Course Title: Game development using python
+Description: Welcome to the "Introduction to Python Game Development" course! In this course, you'll embark on a
+Lessons: 4Lessons
+Price per session: $30
+========================================
+Course Title: Build a Image manipulator using Python Bootcamp for kids
+Description: The Build a Image Manipulator using Python Bootcamp for Kids is a program designed to introduce chil
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Build a Weather app using Python Bootcamp for kids
+Description: Build a Weather App using Python Bootcamp for Kids is an educational program designed to introduce y
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Build Your Own Roblox Battle Arena
+Description: Roblox Studio fundamentals are taught through fun and interactive projects. Lectures, projects, hand
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: The Millionaire's AI Playbook: Learn How to Predict Stock Prices! (For Kids)
+Description: Learn to predict stock prices using the incredible potential of AI and machine learning in our compr
+Lessons: 10Lessons
+Price per session: $22
+========================================
+Course Title: Machine Learning: 7-Day Project-Based Summer Camp
+Description: Join our "Machine Learning Mania" camp for a 7-day tech adventure! Kids will tackle machine learning
+Lessons: 7Lessons
+Price per session: $11
+========================================
+Course Title: AI Pro Camp: Career Growth Catalyst
+Description: Our Intro to AI for Adults course is designed to equip professionals with essential knowledge and pr
+Lessons: 20Lessons
+Price per session: $25
+========================================
+Course Title: Minecraft Java Programming for Beginners
+Description: Session-1: Introduction to Java programming and Minecraft. Lesson 2: Getting Started in Creative Mod
+Lessons: 7Lessons
+Price per session: $20
+========================================
+Course Title: Build a Chatbot using Python Bootcamp for kids
+Description: This bootcamp is a fun and interactive program designed to teach children how to create their own ch
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Build a Password generator using Python Bootcamp for kids
+Description: Welcome to the Build a Password Generator using Python Bootcamp for Kids! In this bootcamp, you will
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Scratch Playground: Create a Space Game!
+Description: Scratch Playground : Create a Space Game is an intermediate-level course designed to introduce kids
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Create Your Own Roblox Obstacle Course
+Description: Roblox enthusiasts who want to learn how to design and build their own custom obstacle courses withi
+Lessons: 8Lessons
+Price per session: $20
+========================================
+Course Title: Java Minecraft Creative or Survival Mode
+Description: 1. Title: Minecraft Java Programming for Beginners Overview: This class is designed for complete beg
+Lessons: 7Lessons
+Price per session: $20
+========================================
+Course Title: AI Camp for Jobs & Business:Build Your own ChatGPT
+Description: 🌟Welcome to the Chatbot Mastery Course! 🎓
+
+Get ready to unlock the secrets of building intelligent
+Lessons: 10Lessons
+Price per session: $25
+========================================
+Course Title: HTML, CSS, JavaScript Essentials: 5-Day Coding Bootcamp
+Description: Unleash your creativity in our fun and interactive 5-day summer camp. No prior experience needed. Yo
+Lessons: 5Lessons
+Price per session: $13
+========================================
